@@ -1,6 +1,6 @@
 # Farm-Delight-AI
 
-AI-based voice-assisted Contact Center for assisting Farmers for their problems. Farmers can log their problems with the contact center thru phone calls / SMS / website and in return an automated voice response can be provided to the farmers with a most appropriate solution for their problems.
+Farm Delight provides assistance to farmers through NLP-based solutions for crop and fertilizer recommendation, disease and weather prediction. Farmers can log their problems with the contact centre through the website and in return, an automated voice response can be provided to the farmers with the most appropriate solution for their problem.
 
 
 ## Features
@@ -10,10 +10,9 @@ AI-based voice-assisted Contact Center for assisting Farmers for their problems.
 3. Crop Recommendation
 4. Fertilizer Recommendation
 5. Disease Prediction
-6. Weather Forcasting
-7. AI Voice Assistance
-8. Voice SMS in local language
-
+6. Weather Forecasting
+7. AI Voice Assistance in regional languages
+   
 
 ## Technology Stack:
 
