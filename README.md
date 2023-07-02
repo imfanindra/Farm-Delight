@@ -21,7 +21,7 @@ Farm Delight provides assistance to farmers through NLP-based solutions for crop
 - **Frontend**: React
 - **Backend**: Flask
 - **IDE**: VS Code
-- **Design**: Figma, Canva
+- **UX Design**: Miro, Figma
 - **API Testing & Documentation**: Postman
 - **Version Control**: Git and GitHub
 
